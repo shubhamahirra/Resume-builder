@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67f44759.css",
+    "main.js": "/static/js/main.06011e7b.js",
+    "static/js/498.00720f41.chunk.js": "/static/js/498.00720f41.chunk.js",
+    "static/js/703.afca951d.chunk.js": "/static/js/703.afca951d.chunk.js",
+    "static/js/598.4df2fc2c.chunk.js": "/static/js/598.4df2fc2c.chunk.js",
+    "static/media/Aboutus.png": "/static/media/Aboutus.b8a7589d4d2c4db4e7b4.png",
+    "static/media/resume3.jpg": "/static/media/resume3.81440c811918085cd76a.jpg",
+    "static/media/resume2.jpg": "/static/media/resume2.66f081781007db021613.jpg",
+    "static/media/resume1.jpg": "/static/media/resume1.085f36dfb4c15668c31d.jpg",
+    "static/media/resume4.jpg": "/static/media/resume4.ad3fa20b4782dd611b10.jpg",
+    "index.html": "/index.html",
+    "main.67f44759.css.map": "/static/css/main.67f44759.css.map",
+    "main.06011e7b.js.map": "/static/js/main.06011e7b.js.map",
+    "498.00720f41.chunk.js.map": "/static/js/498.00720f41.chunk.js.map",
+    "703.afca951d.chunk.js.map": "/static/js/703.afca951d.chunk.js.map",
+    "598.4df2fc2c.chunk.js.map": "/static/js/598.4df2fc2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f44759.css",
+    "static/js/main.06011e7b.js"
+  ]
+}

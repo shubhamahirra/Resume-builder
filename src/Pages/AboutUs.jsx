@@ -6,7 +6,7 @@ import TwitterIcon from "@mui/icons-material/Twitter";
 import EmailIcon from "@mui/icons-material/Email";
 import { Box } from "@mui/system";
 import Header from "../Components/Header/Header";
-import Picture from "../Images/About.jpeg";
+import Picture from "../Images/Aboutus.png";
 import "../Styles/About.css";
 
 export default function ButtonMUI() {
@@ -42,14 +42,14 @@ export default function ButtonMUI() {
               textAlign: "justify",
             }}
           >
-          A good resume can get you an edge over your competitors.This website simplifies the task of creating the resume for individuals. This website conatains basically four templates. The templates are designed in such a way that user can include maximum quality information keeping the resume length short to make a lasting impression.          
-          User can also create account to save progress and multiple versions and also download their resume as PDF.Each resume template is divided into four section i.e. personal info, work experience, education and key skills so the the recurtier can get maximum information about the user in an short and simple way.
+          A resume builder is an online tool that helps job seekers create a professional-looking resume quickly and easily. It typically offers a range of templates to choose from, along with prompts to fill in information about your work experience, education, skills, and other relevant qualifications.          
+          Using a resume builder can save time and ensure that your resume is formatted correctly and includes all the necessary information. Additionally, many resume builders offer helpful tips and suggestions for wording and formatting your resume to make it stand out to potential employers.
           
-          our resume have four pages i.e Home page,Resume templates, My Resume and About Us. The header part contains the navigation from one page to another.
+          Overall, a resume builder can be a valuable tool for job seekers looking to create a polished, professional resume that effectively showcases their qualifications and experience.
           
-          we have the delete option ,download option and edit option to make our templates dynamic and user friendly. User can also switch from one page to another in any indiviual template from back and next button.
+          When using a resume builder, it's important to carefully review your finished product to ensure that all information is accurate and up-to-date.
 
-          we have also tested our components by unit and integration testing.
+          
 
           </Typography>
           <Stack>
